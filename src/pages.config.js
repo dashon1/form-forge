@@ -11,6 +11,7 @@ import FormAnalyticsPage from './pages/FormAnalyticsPage';
 import FormShare from './pages/FormShare';
 import Test from './pages/Test';
 import __Layout from './Layout.jsx';
+import Login from './pages/Login';
 
 
 export const PAGES = {
@@ -26,6 +27,7 @@ export const PAGES = {
     "FormAnalyticsPage": FormAnalyticsPage,
     "FormShare": FormShare,
     "Test": Test,
+    "Login": Login,
 }
 
 export const pagesConfig = {
